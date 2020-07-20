@@ -9,7 +9,7 @@ data was done, we decided to create this open data app to visualize the hundreds
 
 ![The IMF Forecast Tracker](/images/forecast-tracker-2.png)
 
-The tool is built in R-Shiny and makes use of the *plotly* package for the interactive visualization. Users can create downloadable gifs, like the one below.
+I built the application in R-Shiny. It uses the *plotly* package for the interactive visualization. Users can create downloadable gifs, like the one below.
 
 ![The IMF Forecast Tracker](/images/forecast-tracker-gif.gif)
 
