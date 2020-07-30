@@ -19,7 +19,7 @@ I needed something I could hand off to our researchers to maximize both their ac
 and an editable table on the other, for the extracted data. Using R-Shiny, I could create this interface, and Tabula, via the Tabulizer R package, made the critical connection between the PDF and 
 the editable table. Now, our researchers could locate the table, use Tabula to extract the data, and reformat and clean the extracted data all in one place.
 
-With this application tailor built and deployed for our internal project, I decided that such a tool would be useful to the wider open data community, and created a the PDF Table Extractor.
+With this application tailor built and deployed for our internal project, I decided that such a tool would be useful to the wider open data community, and created the PDF Table Extractor.
 
 The application is built in R-Shiny and utilizes the brilliant open source [Tabula](https://tabula.technology/) program via the R package [*tabulizer*](https://github.com/ropensci/tabulizer).
 
